@@ -89,7 +89,7 @@ avail_p = doc.add_paragraph()
 avail_p.alignment = WD_ALIGN_PARAGRAPH.CENTER
 avail_p.paragraph_format.space_after = Pt(6)
 avail_run = avail_p.add_run(
-    "Full Australian Working Rights  |  Available for All Shifts "
+    "Student Visa (Subclass 500) — Eligible to Work  |  Available for All Shifts "
     "(Day / Night / Weekend / 4-on 4-off Rotation)"
 )
 avail_run.italic = True
@@ -128,7 +128,7 @@ summary_run.font.size = Pt(10.5)
 summary_run.font.color.rgb = DARK_GREY
 
 note_p = doc.add_paragraph()
-note_p.paragraph_format.space_after = Pt(4)
+note_p.paragraph_format.space_after = Pt(2)
 note_run = note_p.add_run(
     "Note: This role requires an active NV1 security clearance. "
     "[Insert your NV1 clearance status here.]"
@@ -136,6 +136,18 @@ note_run = note_p.add_run(
 note_run.italic = True
 note_run.font.size = Pt(9.5)
 note_run.font.color.rgb = RGBColor(0x80, 0x00, 0x00)
+
+visa_p = doc.add_paragraph()
+visa_p.paragraph_format.space_after = Pt(4)
+visa_run = visa_p.add_run(
+    "Visa condition: As a Student visa (Subclass 500) holder, work is limited to 48 hours "
+    "per fortnight while my course is in session, and unlimited during scheduled study "
+    "breaks, in accordance with visa condition 8105. Happy to discuss rostering around "
+    "this during the interview."
+)
+visa_run.italic = True
+visa_run.font.size = Pt(9.5)
+visa_run.font.color.rgb = RGBColor(0x80, 0x00, 0x00)
 
 # Licences & Certifications
 add_section_heading(doc, "Licences & Certifications")
@@ -234,7 +246,11 @@ for bullet in experience_bullets:
 # Availability
 add_section_heading(doc, "Availability")
 add_bullet(doc, "Available for any shift: day, night, weekend, and 4-on/4-off rotations")
-add_bullet(doc, "Full Australian working rights")
+add_bullet(
+    doc,
+    "Student Visa (Subclass 500) — able to work up to 48 hours per fortnight during "
+    "study sessions, and unlimited hours during scheduled study breaks",
+)
 add_bullet(doc, "Able to start immediately")
 
 # Referees

@@ -1,7 +1,7 @@
 # Bhupraj Tamang
 
 Darwin, NT 0800 | 0447 481 904 | [Your Email Address]
-Full Australian Working Rights | Available for All Shifts (Day / Night / Weekend / 4-on 4-off Rotation)
+Student Visa (Subclass 500) — Eligible to Work | Available for All Shifts (Day / Night / Weekend / 4-on 4-off Rotation)
 
 ---
 
@@ -10,6 +10,8 @@ Full Australian Working Rights | Available for All Shifts (Day / Night / Weekend
 Reliable and safety-focused Security Officer with hands-on customer service experience and a full suite of current security and first aid qualifications, including a Certificate II in Security Operations (CPP20218), Security Officer Licence, and Crowd Controller Licence issued under the Northern Territory Private Security Act. Comfortable working independently, following strict procedures, and maintaining a calm, professional presence in fast-paced, customer-facing environments. Physically fit, punctual, and available for a full range of shifts including day, night, weekend, and 4-on/4-off rotations. Seeking to bring strong attention to detail, risk-awareness, and service excellence to the NV1 Security Officer role with Millennium Services Group in Darwin.
 
 > **Note:** This role requires an active NV1 security clearance. [Insert your NV1 clearance status here, e.g. "Currently hold an active NV1 clearance, granted [Month, Year]" or "NV1 clearance application in progress" — remove this note once completed.]
+
+> **Visa condition:** As a Student visa (Subclass 500) holder, work is limited to 48 hours per fortnight while my course is in session, and unlimited during scheduled study breaks, in accordance with visa condition 8105. Happy to discuss rostering around this during the interview.
 
 ---
 
@@ -62,7 +64,7 @@ Reliable and safety-focused Security Officer with hands-on customer service expe
 ## Availability
 
 - Available for **any shift**: day, night, weekend, and 4-on/4-off rotations
-- Full Australian working rights
+- Student Visa (Subclass 500) — able to work up to 48 hours per fortnight during study sessions, and unlimited hours during scheduled study breaks
 - Able to start immediately
 
 ---

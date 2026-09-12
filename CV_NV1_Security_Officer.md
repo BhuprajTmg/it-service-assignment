@@ -1,6 +1,6 @@
-# [Your Full Name]
+# Bhupraj Tamang
 
-Darwin, NT 0800 | [Your Phone Number] | [Your Email Address]
+Darwin, NT 0800 | 0447 481 904 | [Your Email Address]
 Full Australian Working Rights | Available for All Shifts (Day / Night / Weekend / 4-on 4-off Rotation)
 
 ---
@@ -15,18 +15,16 @@ Reliable and safety-focused Security Officer with hands-on customer service expe
 
 ## Licences & Certifications
 
-| Licence / Certificate | Issuing Body |
-|---|---|
-| Security Officer Licence | Northern Territory Private Security Act |
-| Crowd Controller Licence | Northern Territory Private Security Act |
-| Certificate II in Security Operations (CPP20218) | [Registered Training Organisation] |
-| CPCWHS1001 – Prepare to Work Safely in the Construction Industry | [Registered Training Organisation] |
-| HLTAID011 – Provide First Aid | [Registered Training Organisation] |
-| HLTAID009 – Provide Cardiopulmonary Resuscitation (CPR) | [Registered Training Organisation] |
-| HLTAID010 – Provide Basic Emergency Life Support | [Registered Training Organisation] |
-| Responsible Service of Alcohol (RSA) | [Registered Training Organisation] |
-
-*[Add licence numbers and expiry dates here if you would like them included — many employers request these for verification.]*
+| Licence / Certificate | Issuing Body | Licence No. / Expiry |
+|---|---|---|
+| Security Officer Licence | Northern Territory Private Security Act | DLSC6551 — Expires 03/06/2028 |
+| Crowd Controller Licence | Northern Territory Private Security Act | DLSC6551 — Expires 03/06/2028 |
+| Certificate II in Security Operations (CPP20218) | Integrated Training | — |
+| CPCWHS1001 – Prepare to Work Safely in the Construction Industry | Integrated Training | — |
+| HLTAID011 – Provide First Aid | Integrated Training | — |
+| HLTAID009 – Provide Cardiopulmonary Resuscitation (CPR) | Integrated Training | — |
+| HLTAID010 – Provide Basic Emergency Life Support | Integrated Training | — |
+| Responsible Service of Alcohol (RSA) | Integrated Training | — |
 
 ---
 
@@ -72,8 +70,6 @@ Reliable and safety-focused Security Officer with hands-on customer service expe
 ## Referees
 
 Available upon request.
-
-*[Optional: list 1–2 referees with name, relationship, and contact details, e.g. a Coles supervisor.]*
 
 ---
 
